@@ -24,7 +24,7 @@ To see exactly how the script performs, I have provided the assets used for a te
 * **Hook Title:** "I have matured so much, and instead of just waiting for my boyfriend to cheat, I have taken control."
 * **Username:** `1000andonenites`
 * **Story File:** [storyNew.txt](./storyNew.txt) ( it's not full reddit post )
-* **Background Video:** [minecraftBG.mp4](./minecraftBG.mp4)
+* **Background Video:** [📥 Download 2GB Background (External Link)](https://limewire.com/d/rKdHP#8rdaumhZ5v)
 * **Target Duration:** 50 Seconds
 
 **Generated Output:**
