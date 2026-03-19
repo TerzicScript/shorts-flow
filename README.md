@@ -16,6 +16,25 @@ The script handles the "hook" namecard (Title/Username) at the start and intelli
 
 ---
 
+### 📝 Quick Notice: Example Run
+
+To see exactly how the script performs, I have provided the assets used for a test run and the final results.
+
+**Inputs Used:**
+* **Hook Title:** "I have matured so much, and instead of just waiting for my boyfriend to cheat, I have taken control."
+* **Username:** `1000andonenites`
+* **Story File:** [storyNew.txt](./storyNew.txt) ( it's not full reddit post )
+* **Background Video:** [minecraftBG.mp4](./minecraftBG.mp4)
+* **Target Duration:** 50 Seconds
+
+**Generated Output:**
+The story was automatically split into 3 parts. You can view the rendered results here:
+* 📺 [Part 1 - Watch Here](https://streamable.com/revhl3)
+* 📺 [Part 2 - Watch Here](https://streamable.com/sxvb12)
+* 📺 [Part 3 - Watch Here](https://streamable.com/y59c1q)
+
+---
+
 ## ⚙️ How It Works
 
 The application is designed to be a "set and forget" pipeline for short-form content.
